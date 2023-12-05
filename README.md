@@ -14,3 +14,5 @@ how to use application:
   -> Type the word or sentence you want to convert to binary on text box
   -> Click on "Convert" button to convert to Binary
   -> Clear converted binary value using "Clear" button
+
+https://pyscript.net/
